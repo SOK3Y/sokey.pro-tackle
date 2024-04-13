@@ -1,0 +1,3 @@
+name = GetCurrentResourceName()
+
+Config = {}
