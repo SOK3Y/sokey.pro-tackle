@@ -1,3 +1,6 @@
+local isJumping = false
+local tackling = false
+
 Citizen.CreateThread(function()
 	while true do
 		Wait(200)
